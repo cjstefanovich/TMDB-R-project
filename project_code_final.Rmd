@@ -1,6 +1,6 @@
 ---
 title: "UNDERSTANDING THE REVENUE AND CONSUMER RATINGS OF MOVIES"
-author: "Emma Stefanovich"
+author: "Connor Stefanovich"
 date: "2023-10-16"
 output:
   word_document: default
